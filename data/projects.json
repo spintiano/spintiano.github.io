@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Personal Portfolio Website",
+        "description": "A personal portfolio website created to showcase my background, education, skills, projects, and contact information.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "role": "Designer and Developer",
+        "screenshot": "data/portfolio.png",
+        "link": "https://github.com/spintiano"
+    },
+    {
+        "title": "Matteo's Brew Cafe",
+        "description": "On Going",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL",
+            "PHP",
+            "XAMPP"
+        ],
+        "role": "Designer and Developer",
+        "screenshot": "data/coffee.PNG",
+        "link": "https://github.com/spintiano"
+    },
+    {
+        "title": "Calculator",
+        "description": "Calculates addition, subtraction, multiplication and division instantly.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "role": "Designer and Developer",
+        "screenshot": "data/Calculator.png",
+        "link": "https://github.com/spintiano"
+    }
+]
+
