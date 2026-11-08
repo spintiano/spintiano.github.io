@@ -13,17 +13,15 @@
     },
     {
         "title": "Matteo's Brew Cafe",
-        "description": "On Going",
+        "description": "A website for a coffee shop that allows users to view the menu, order online, and learn about the cafe's story.",
         "technologies": [
             "HTML",
             "CSS",
             "JavaScript",
-            "SQL",
-            "PHP",
-            "XAMPP"
+            "JSON"
         ],
         "role": "Designer and Developer",
-        "screenshot": "data/coffee.png",
+        "screenshot": "data/coffee.PNG",
         "link": "https://github.com/spintiano/Mattheo-s-Brew-Cafe.git"
     },
     {
