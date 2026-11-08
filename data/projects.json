@@ -9,7 +9,7 @@
         ],
         "role": "Designer and Developer",
         "screenshot": "data/portfolio.PNG",
-        "link": "https://github.com/spintiano"
+        "link": "https://github.com/spintiano/Basic-Portfolio.git"
     },
     {
         "title": "Matteo's Brew Cafe",
@@ -23,8 +23,8 @@
             "XAMPP"
         ],
         "role": "Designer and Developer",
-        "screenshot": "data/coffee.PNG",
-        "link": "https://github.com/spintiano"
+        "screenshot": "data/coffee.png",
+        "link": "https://github.com/spintiano/Mattheo-s-Brew-Cafe.git"
     },
     {
         "title": "Calculator",
@@ -36,7 +36,7 @@
         ],
         "role": "Designer and Developer",
         "screenshot": "data/Calculator.PNG",
-        "link": "https://github.com/spintiano"
+        "link": "https://github.com/spintiano/Calculator.git"
     }
 ]
 
